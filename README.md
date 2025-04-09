@@ -85,7 +85,7 @@ This project performs a complete exploratory data analysis (EDA) and data cleani
 
 ---
 
-##  Sample Visualizations to Add (Optional)
+### 8. Visualizations 
 - Bar plot of survival by gender
 - Histogram of age distribution
 - Boxplot of fare by class
