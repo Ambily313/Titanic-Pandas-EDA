@@ -86,10 +86,12 @@ This project performs a complete exploratory data analysis (EDA) and data cleani
 ---
 
 ### 8. Visualizations 
-- Bar plot of survival by gender
-- Histogram of age distribution
-- Boxplot of fare by class
-- WordCloud of names or titles
+- Survival Count by Gender
+- Age Distribution of Passengers
+- Survival Count by Passenger Class
+- Fare Distribution by Class
+- Survival by Embarkation Port (Heatmap)
+- Age vs Fare by Survival (Scatterplot)
 
 ---
 
